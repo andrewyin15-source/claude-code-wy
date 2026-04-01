@@ -1,14 +1,14 @@
 {
-  "name": "claude-code-local",
-  "version": "999.0.0-local",
+  "name": "claude-code-wy",
+  "version": "999.0.0-wy",
   "private": true,
   "type": "module",
   "bin": {
-    "claude-haha": "./bin/claude-haha"
+    "claude-code-wy": "./bin/claude-code-wy"
   },
   "scripts": {
-    "claude-haha": "bun run ./bin/claude-haha",
-    "start": "bun run ./bin/claude-haha"
+    "claude-code-wy": "bun run ./bin/claude-code-wy",
+    "start": "bun run ./bin/claude-code-wy"
   },
   "dependencies": {
     "@anthropic-ai/sandbox-runtime": "^0.0.44",
